@@ -1,0 +1,25 @@
+{
+  "name": "friend-finder",
+  "version": "1.0.0",
+  "description": "Dating App, Kinda",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mgmcintyre777/Friend-Finder.git"
+  },
+  "author": "Matt McIntyre",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mgmcintyre777/Friend-Finder/issues"
+  },
+  "homepage": "https://github.com/mgmcintyre777/Friend-Finder#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  },
+  "scripts": {
+    "start": "node server.js"
+  }
+}
